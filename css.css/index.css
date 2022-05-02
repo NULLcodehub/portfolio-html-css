@@ -22,5 +22,10 @@ h1{
 #text-hover1:hover{
     color: rgb(255, 115, 80);
 }
+.top-banner{
+    background-image: url("../image/banner-bg.png");
+    background-repeat: no-repeat;
+    height:500px;
+}
 
 
